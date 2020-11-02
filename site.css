@@ -1,0 +1,57 @@
+#header {
+    background-image: url('./img/try2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+
+
+#about{
+    background-color: whitesmoke;
+}
+
+#education{
+    background-color: whitesmoke;
+}
+
+#work{
+    background-color: #95bacc;
+}
+
+#services{
+    background-color: #95bacc;
+}
+
+#contact{
+    background-color: whitesmoke
+}
+
+#services h1{
+    color: #ec6262;
+
+}
+#education h1{
+    color: #ec6262;
+
+}
+#work h1{
+    color: #ec6262;
+}
+#contact h1{
+    color: #ec6262;
+}
+#about h1{
+    color: #ec6262;
+}
+
+
+#footer {
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: #95bacc;
+        text-align: center;
+
+}
+
+
